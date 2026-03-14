@@ -1,0 +1,5 @@
+THIS IS A DEVELOPER-ONLY VERSION.
+IF YOU ARE UNAUTHORIZED, THERE WILL BE AN APPROPRIATE PUNISHMENT.
+Certain features may not be present in the final version.
+Currently in dev version 1.12.1.5.
+§kObfuscation test
